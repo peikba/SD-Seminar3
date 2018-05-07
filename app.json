@@ -1,0 +1,23 @@
+{
+  "id": "5b9bd527-399f-40b2-95b0-f943698f6b92",
+  "name": "SD_Seminar",
+  "publisher": "Peik Bech-Andersen",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
