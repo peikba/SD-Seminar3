@@ -1,4 +1,5 @@
 table 50101 "Cust Entry"
+// Documentation
 {
     Caption='Cust Entry';
     DataClassification = ToBeClassified;
