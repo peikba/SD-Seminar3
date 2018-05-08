@@ -7,8 +7,7 @@
             "name": "localhost",
             "server": "http://localhost",
             "serverInstance": "DynamicsNAV110W1",
-            "authentication": "Windows",
-            "schemaUpdateMode": "Recreate"
+            "authentication": "Windows"
         }
     ]
 }
